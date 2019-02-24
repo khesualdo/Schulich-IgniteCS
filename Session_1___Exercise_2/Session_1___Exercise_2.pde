@@ -1,7 +1,7 @@
 // Set canvas size
 size(600, 700);
 
-// Set border width for all shapes
+// Set border thickness for all shapes
 strokeWeight(4);
 
 // Set border color for all shapes
