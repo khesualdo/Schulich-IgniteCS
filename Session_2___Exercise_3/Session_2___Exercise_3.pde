@@ -18,7 +18,7 @@ void draw(){
   // Erase previous circle
   background(10, 110, 110);
   
-  // Redraw blue circle
+  // Draw blue circle
   // with orange border
   fill(R, G, B);
   
