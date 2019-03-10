@@ -13,5 +13,10 @@
 # Session 2 - Exercise 3
 <img src="https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_2___Exercise_3/Sample-1.png" width="200"/><img src="https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_2___Exercise_3/Sample-2.png" width="200"/><img src="https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_2___Exercise_3/Sample-3.png" width="200"/><img src="https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_2___Exercise_3/Sample-4.png" width="200"/>
 
+# Session 3 - Exercise 1
+<img src="https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_3___Exercise_1/Sample-1.png" width="200"/><img src="https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_3___Exercise_1/Sample-2.png" width="200"/><img src="https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_3___Exercise_1/Sample-3.png" width="200"/><img src="https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_3___Exercise_1/Sample-4.png" width="200"/>
+
+<img src="https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_3___Exercise_1/Sample-1.png" width="200"/><img src="https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_3___Exercise_1/Sample-2.png" width="200"/><img src="https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_3___Exercise_1/Sample-3.png" width="200"/><img src="https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_3___Exercise_1/Sample-4.png" width="200"/>
+
 # Session 3 - Exercise 5
 ![](https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_3___Exercise_5/Sample.png)
