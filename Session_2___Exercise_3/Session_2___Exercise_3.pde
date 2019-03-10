@@ -7,13 +7,6 @@ void setup(){
   
   // Set canvas color
   background(10, 110, 110);
-  
-  // Draw blue circle
-  // with orange border
-  // in the top left corner
-  fill(2, 255, 255);
-  stroke(255, 191, 0);
-  ellipse(50, 50, 100, 100);
 }
 
 int R = 0;
@@ -27,13 +20,14 @@ void draw(){
   
   // Redraw blue circle
   // with orange border
-  // in the top left corner
   fill(R, G, B);
   
-  if ((R + speed) >= 0 && (R + speed) < 3) { R += speed; } //<>//
+  // Increase RGB values
+  if ((R + speed) >= 0 && (R + speed) < 3) { R += speed; }
   if (G <= 255) { G += speed; }
   if (B <= 255) { B += speed; }
   
+  // Reverse
   if (B == 255) { speed = -1; }
   if (B == 0) { speed = 1; }
   
