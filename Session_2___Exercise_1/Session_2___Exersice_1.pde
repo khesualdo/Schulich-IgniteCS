@@ -7,13 +7,6 @@ void setup(){
   
   // Set canvas color
   background(10, 110, 110);
-  
-  // Draw blue circle
-  // with orange border
-  // in the top left corner
-  fill(2, 255, 255);
-  stroke(255, 191, 0);
-  ellipse(50, 50, 100, 100);
 }
 
 int XPosition = 50;
@@ -25,7 +18,6 @@ void draw(){
   
   // Redraw blue circle
   // with orange border
-  // in the top left corner
   fill(2, 255, 255);
   stroke(255, 191, 0);
   ellipse(XPosition, 54, 100, 100);
