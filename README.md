@@ -27,3 +27,6 @@
 
 # Session 3 - Exercise 5
 ![](https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_3___Exercise_5/Sample.png)
+
+# Session 4 - Exercise 1
+![](https://github.com/00111000/Schulich-IgniteCS/blob/master/Session_4___Exercise_1/Sample.png)
